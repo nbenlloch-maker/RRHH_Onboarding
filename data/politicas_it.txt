@@ -1,0 +1,15 @@
+POLÍTICAS DE TECNOLOGÍA DE LA INFORMACIÓN (IT)
+
+1. EQUIPAMIENTO Y USO DE ORDENADORES
+- Todos los empleados reciben un ordenador portátil corporativo para el desempeño de sus funciones.
+- No está permitido instalar software no autorizado o sin licencia.
+- Las actualizaciones del sistema operativo enviadas por el equipo de IT son obligatorias y deben aplicarse en un plazo máximo de 48 horas.
+
+2. SEGURIDAD DE ACCESO Y CONTRASEÑAS
+- Las contraseñas corporativas deben tener un mínimo de 12 caracteres, incluyendo letras mayúsculas, minúsculas, números y caracteres especiales.
+- Las contraseñas deben cambiarse obligatoriamente cada 90 días.
+- Queda terminantemente prohibido compartir credenciales o dejarlas anotadas físicamente en el lugar de trabajo.
+
+3. USO DE REDES Y VPN
+- Para acceder a los recursos internos de la empresa desde redes externas, es obligatorio conectarse a través de la VPN corporativa.
+- El uso de redes Wi-Fi públicas no protegidas para fines de trabajo está prohibido sin el uso de VPN.
