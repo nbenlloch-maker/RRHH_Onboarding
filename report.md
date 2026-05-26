@@ -1,6 +1,6 @@
-# Trabajo Fin de Máster: Sistema Multiagente de Onboarding Corporativo con RAG y MCP
+# Trabajo: Sistema Multiagente de Onboarding Corporativo con RAG y MCP
 
-**Alumno:** Nicolás Benlloch  
+**Alumno:** Ignacio Benlloch, Sergi Escoruela y Adrián Alemany
 **Institución:** EDEM Escuela de Empresarios  
 **Programa:** Máster en Inteligencia Artificial  
 **Fecha:** Mayo, 2026  
